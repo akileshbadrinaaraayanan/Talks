@@ -3,7 +3,7 @@ Presentations of my talks, research papers.
 
 ### Attention Based Natural Language Grounding by Navigating Virtual Environment
 
-To be presented at [WACV 19](http://wacv19.wacv.net/). [here](https://github.com/akileshbadrinaaraayanan/Talks/tree/master/WACV19)
+To be presented at [WACV 19](http://wacv19.wacv.net/). [here](https://github.com/akileshbadrinaaraayanan/Talks/tree/master/WACV19) <br/>
 Link to [paper](https://arxiv.org/abs/1804.08454)
 
 ### Incremental gradient, sub-gradient and proximal methods
