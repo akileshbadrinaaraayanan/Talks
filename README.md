@@ -1,9 +1,15 @@
 # Talks
 Presentations of my talks, research papers. 
 
+### Towards Jumpy Planning
+Spotlight presentation at [ICML 2019 MBRL workshop](https://sites.google.com/view/mbrl-icml2019/accepted-papers?authuser=0). <br/>
+Link to [Poster](https://github.com/akileshbadrinaaraayanan/Talks/blob/master/icml_mbrl_poster.pdf) <br/>
+Link to [Spotlight slides](https://github.com/akileshbadrinaaraayanan/Talks/blob/master/icml_mbrl_slides.pdf) <br/>
+Link to [workshop paper](https://drive.google.com/file/d/12yy2svHfxAMK68xGPkqP3nndLF_0b1uX/view)
+
 ### Attention Based Natural Language Grounding by Navigating Virtual Environment
 
-To be presented at [WACV 19](http://wacv19.wacv.net/). <br/>
+Presented at [WACV 19](http://wacv19.wacv.net/). <br/>
 Link to [Slides and Poster](https://github.com/akileshbadrinaaraayanan/Talks/tree/master/WACV19) <br/>
 Link to [paper](https://arxiv.org/abs/1804.08454)
 
